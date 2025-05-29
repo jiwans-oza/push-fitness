@@ -354,7 +354,7 @@ export default function Home() {
                 variants={fadeIn}
                 className="text-xl text-gray-300 mb-8 max-w-xl"
               >
-                Join Albany's premier fitness destination. State-of-the-art equipment, expert trainers, and a supportive community await you.
+                Join Albany&apos;s premier fitness destination. State-of-the-art equipment, expert trainers, and a supportive community await you.
               </motion.p>
 
               <motion.div 
